@@ -1,0 +1,18 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {chapter}{\numberline {2}Laravel Installation and Composer}{3}
+\contentsline {section}{\numberline {2.1}Installation}{3}
+\contentsline {subsection}{\numberline {2.1.1}Server Requirements}{3}
+\contentsline {subsection}{\numberline {2.1.2}Installing Laravel}{3}
+\contentsline {subsection}{\numberline {2.1.3}Configuration}{3}
+\contentsline {chapter}{\numberline {3}Basic Routing and Views }{5}
+\contentsline {section}{\numberline {3.1}Basic Routing}{5}
+\contentsline {section}{\numberline {3.2}Route Parameters}{5}
+\contentsline {subsection}{\numberline {3.2.1}Required Parameters}{5}
+\contentsline {subsection}{\numberline {3.2.2}Optional Parameters}{5}
+\contentsline {section}{\numberline {3.3}Named Routes}{5}
+\contentsline {section}{\numberline {3.4}Creating Views}{5}
+\contentsline {section}{\numberline {3.5}Passing Data To Views}{5}
+\contentsline {subsection}{\numberline {3.5.1}Sharing Data With All Views}{5}
+\contentsline {section}{\numberline {3.6}View Composers}{5}
+\contentsline {chapter}{\numberline {4}Controllers}{7}
+\contentsline {chapter}{\numberline {5}Database}{9}
